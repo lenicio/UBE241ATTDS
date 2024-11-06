@@ -115,3 +115,8 @@ foreach ($produtos as $indice => $produto) {
 echo "<pre>";
 print_r($produtos);
 
+/*
+
+$PrecosDelivros = [20, 90, 85, 40, 12, 10];
+
+*/

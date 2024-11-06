@@ -1,0 +1,50 @@
+- [X] 1. Qual o total de despesas?
+- [ ] 2. Qual o total de receitas?
+- [ ] 3. Quantas transações de cada tipo (Receita e Despesa) existem no array?
+- [ ] 4. Qual a média dos valores das receitas?
+- [ ] 5. Qual a média dos valores das despesas?
+- [ ] 6. Qual o maior valor de receita e qual pessoa o realizou?
+- [ ] 7. Qual o menor valor de despesa e qual pessoa o realizou?
+- [ ] 8. Quantas transações foram realizadas por pessoas do gênero "feminino" e "masculino"?
+- [ ] 9. Qual a soma total de todas as transações?
+- [ ] 10. Quantas transações possuem um valor acima de 500?
+- [ ] 11. Liste todas as pessoas que realizaram uma despesa com valor superior a 100.
+- [ ] 12. Quantas transações têm a descrição "Salário"?
+- [ ] 13. Qual é o valor total das transações com a descrição "Investimento"?
+- [ ] 14. Qual é a diferença entre o total de receitas e o total de despesas?
+- [ ] 15. Liste todas as pessoas que realizaram transações do tipo "Despesa".
+- [ ] 16. Qual a média dos valores das transações realizadas por pessoas do gênero "feminino"?
+- [ ] 17. Quantas transações possuem a descrição "Aluguel"?
+- [ ] 18. Qual o valor total de receitas realizadas por pessoas do gênero "masculino"?
+- [ ] 19. Quais transações possuem valores entre 100 e 300?
+- [ ] 20. Quais são os três maiores valores de receita?
+- [ ] 21. Quais são os três menores valores de despesa?
+- [ ] 22. Quantas transações possuem uma descrição que começa com a letra "S"?
+- [ ] 23. Liste todas as descrições únicas de transações (sem repetição).
+- [ ] 24. Quantas transações têm uma descrição com mais de uma palavra?
+- [ ] 25. Qual é a diferença entre o maior e o menor valor de todas as transações?
+- [ ] 26. Liste todas as transações realizadas por pessoas com o nome "Lucas".
+- [ ] 27. Qual o valor médio das transações para descrições que contenham a palavra "Freelance"?
+- [ ] 28. Quantas pessoas têm um nome que começa com a letra "J" e realizaram uma receita?
+- [ ] 29. Qual a soma dos valores das transações com descrição "Bônus"?
+- [ ] 30. Liste todas as pessoas que realizaram ao menos uma transação do tipo "Receita".
+- [ ] 31. Quais transações possuem valores exatos de 200?
+- [ ] 32. Quantas transações têm uma descrição contendo a palavra "Salário"?
+- [ ] 33. Quais transações possuem descrições de uma única palavra?
+- [ ] 34. Liste todas as transações realizadas por pessoas cujo nome termina com a letra "a".
+- [ ] 35. Qual é o valor total das despesas realizadas por pessoas do gênero "masculino"?
+- [ ] 36. Liste todas as transações de receitas com valores abaixo de 500.
+- [ ] 37. Qual é o valor médio de todas as transações realizadas por pessoas do gênero "feminino"?
+- [ ] 38. Quais transações possuem valores múltiplos de 100?
+- [ ] 39. Quantas transações de despesas possuem valores abaixo de 100?
+- [ ] 40. Quais são os valores únicos (sem repetição) das transações do tipo "Despesa"?
+- [ ] 41. Qual é o total de transações para pessoas com nomes de três sílabas?
+- [ ] 42. Qual é a transação de maior valor realizada por uma pessoa do gênero "feminino"?
+- [ ] 43. Liste todas as transações com a descrição "Aluguel".
+- [ ] 44. Quantas transações têm valores menores do que 500?
+- [ ] 45. Qual é a soma total das transações com descrições que contenham a palavra "Investimento"?
+- [ ] 46. Quantas transações foram feitas com valores pares?
+- [ ] 47. Qual a diferença entre o total de receitas e o total de despesas realizadas por pessoas do gênero "masculino"?
+- [ ] 48. Quantas pessoas têm o nome "Lucas" e realizaram uma despesa?
+- [ ] 49. Liste todas as descrições de transações realizadas por pessoas com nome começando com "A".
+- [ ] 50. Qual o valor total das despesas com a descrição "Compras do mês"?
