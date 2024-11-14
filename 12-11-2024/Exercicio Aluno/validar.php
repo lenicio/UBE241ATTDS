@@ -20,6 +20,7 @@ if (
     $notaAvaliacaoIntegrada,
     $quantidadeFalta
   );
+  
 } else {
   header("Location: ./index.php");
   exit;
