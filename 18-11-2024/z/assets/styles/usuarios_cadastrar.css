@@ -1,0 +1,57 @@
+/* 1rem equivale a 16px */
+
+body {
+  text-align: center;
+}
+
+form {
+  margin-top: 100px;
+}
+
+form div {
+  margin-bottom: 1rem;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+form input {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 300px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+
+form button {
+  height: 40px;
+  border: 1px solid #392269;
+  background-color: #392269;
+  color: #fff;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 4px;
+}
+
+form button:hover {
+  cursor: pointer;
+  background-color: #593c99;
+  font-weight: bold;
+}
+
+.cadastro {
+  margin-top: 0.5rem;
+}
+
+.cadastro a {
+  text-decoration: none;
+  font-size: 0.75rem;
+}
+
+.cadastro a:hover {
+ font-weight: bold;
+}
