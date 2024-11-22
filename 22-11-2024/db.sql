@@ -1,0 +1,25 @@
+-- https://www.drawdb.app/editor?shareId=fcd4733df8ac16d87fba3293ec1cd532
+
+DROP DATABASE IF EXISTS z;
+
+CREATE DATABASE z;
+
+USE z;
+
+CREATE TABLE `usuarios` (
+	`id` INTEGER NOT NULL AUTO_INCREMENT UNIQUE,
+	`nome` VARCHAR(255) NOT NULL,
+	`email` VARCHAR(255) NOT NULL UNIQUE,
+	`senha` VARCHAR(255) NOT NULL,
+	PRIMARY KEY(`id`)
+);
+
+
+CREATE TABLE `posts` (
+	`id` INTEGER NOT NULL AUTO_INCREMENT UNIQUE,
+	`post` TEXT(65535) NOT NULL,
+	`usuario_id` INTEGER NOT NULL,
+	`data_postagem` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	PRIMARY KEY(`id`),
+    FOREIGN KEY(`usuario_id`) REFERENCES `usuarios`(`id`)
+);
